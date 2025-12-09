@@ -1,0 +1,7 @@
+node_modules/
+skin-cancer-training/Categories/
+skin-cancer-training/*.csv
+skin-cancer-training/Skin\ Cancer/
+**/.code-workspace
+**/.venv/
+**/.env
