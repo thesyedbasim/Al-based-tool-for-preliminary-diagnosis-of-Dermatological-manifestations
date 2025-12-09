@@ -1,1 +1,1 @@
-#Al-based tool for preliminary diagnosis of Dermatological manifestations
+# Al-based tool for preliminary diagnosis of Dermatological manifestations
